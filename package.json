@@ -1,5 +1,6 @@
 {
-  "name": "Joyeux Anniversaire !",
+  "name": "appisa",
+  "description": "app for birthday",
   "version": "0.0.1",
   "private": true,
   "scripts": {
